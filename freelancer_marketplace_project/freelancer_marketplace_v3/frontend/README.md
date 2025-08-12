@@ -1,4 +1,4 @@
-# Gigly - Freelance Platform Frontend
+# Super B - Freelance Platform Frontend
 
 A modern, responsive frontend for a freelance marketplace platform built with React.js, Vite, and Tailwind CSS. This application provides a complete user interface for clients and freelancers to connect, manage gigs, process orders, and communicate in real-time.
 
